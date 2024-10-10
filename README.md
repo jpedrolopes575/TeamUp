@@ -41,7 +41,7 @@
 
 # 🗨 :: Linguagem utilizada
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,github,html,css,java,swift,js,linux,mysql,nodejs,postman,replit,vscode,eclipse,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=swift,&perline=14" />
   </a>
 
 
