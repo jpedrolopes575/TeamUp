@@ -61,6 +61,7 @@
 
 ![image](https://github.com/user-attachments/assets/887f6cd7-20d7-4c88-be73-5ab284f1c839)
 
+<h3>Tela Jogador</h3>
 
 ![image](https://github.com/user-attachments/assets/a7f4c79a-6b02-4738-b57a-8312276fe93b)
 
