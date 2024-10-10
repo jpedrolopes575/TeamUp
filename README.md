@@ -45,6 +45,7 @@
     <img src="https://skillicons.dev/icons?i=swift,&perline=14" />
   </a>
 </p>
+<p align="center">
 <p>Swift</p>
 
 
