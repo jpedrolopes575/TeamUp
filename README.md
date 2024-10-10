@@ -2,6 +2,9 @@
 <h1>📍 Projeto Apple Academy 📍</h1>
 
 <br>
+
+![image](https://github.com/user-attachments/assets/c69f92db-d961-4288-a72a-c1a4de51fa01)
+
 <br>
 
 <h1>Seja bem-vindo ao primeiro de muitos projetos da KrakenVortex Tech</h1>
