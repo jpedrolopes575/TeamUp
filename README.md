@@ -41,8 +41,9 @@
 
 # 🗨 :: Linguagem utilizada
 <p align="center">
-   Apps with ![Swift](https://img.shields.io/badge/-Swift-2E333D?style=flat&logo=swift)
-  <a>Swift</a>
+  
+    ![Swift](https://img.shields.io/badge/-Swift-2E333D?style=flat&logo=swift)
+
 </p>
 
 
