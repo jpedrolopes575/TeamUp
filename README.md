@@ -43,7 +43,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift,&perline=14" />
-    <p>Swift</p>
+    >Swift<
   </a>
   <a>Swift</a>
 </p>
