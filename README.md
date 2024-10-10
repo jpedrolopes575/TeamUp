@@ -48,9 +48,6 @@
 <div align="center">
 <h3>Início</h3>
 
-
 ![image](https://github.com/user-attachments/assets/e60beb88-a9b2-443b-b905-34269ef5645d)
-
-
 
 
