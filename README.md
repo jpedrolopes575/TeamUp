@@ -45,4 +45,7 @@
 
 
 # 📷 :: Imagens do Projeto
-<h3>Ainda não possuimos imagens finais do projeto tendo em vista que ele ainda não está totalmente acabado</h3>
+<h3>Início</h3>
+![Captura de tela 2024-03-14 200329](https://github.com/user-attachments/assets/08aa9eb7-cc9e-41a8-aa40-d913c7ecca9d)
+
+<h3></h3>
