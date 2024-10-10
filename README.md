@@ -66,6 +66,7 @@
 
 ![image](https://github.com/user-attachments/assets/a7f4c79a-6b02-4738-b57a-8312276fe93b)
 
+<h3>Modo Partida</h3>
 
 ![image](https://github.com/user-attachments/assets/28cd8047-6ae2-411a-9748-e0590ea53fcf)
 
