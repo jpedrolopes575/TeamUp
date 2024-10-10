@@ -42,8 +42,7 @@
 # 🗨 :: Linguagem utilizada
 <p align="center">
   
-    ![Swift](https://img.shields.io/badge/-Swift-2E333D?style=flat&logo=swift)
-
+![Swift](https://img.shields.io/badge/-Swift-2E333D?style=flat&logo=swift)
 </p>
 
 
