@@ -40,7 +40,9 @@
 
 
 # 🗨 :: Linguagem utilizada
-<h3>Como já é de se esperar usamos a linguagem Swift para o desenvolvimento do aplicativo</h3> 
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,github,html,css,java,swift,js,linux,mysql,nodejs,postman,replit,vscode,eclipse,&perline=14" />
+  </a>
 
 
 
