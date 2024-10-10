@@ -40,6 +40,7 @@
 
 
 # 🗨 :: Linguagem utilizada
+<div aling="center">
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift,&perline=14" />
   </a>
