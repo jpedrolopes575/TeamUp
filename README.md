@@ -44,9 +44,10 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift,&perline=14" />
   </a>
+  <a>Swift</a>
 </p>
-<p align="center">
-<a>Swift</a>
+
+
 
 
 # 📷 :: Imagens do Projeto
