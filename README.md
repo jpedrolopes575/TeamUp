@@ -40,11 +40,8 @@
 
 
 # 🗨 :: Linguagem utilizada
-<p align="center"> 
-  
-<h1> 
-  
-  ![Swift](https://img.shields.io/badge/-Swift-2E333D?style=flat&logo=swift) </h1></p>
+<h3>A linguagem de programação que utilizamos para o desenvolvimento desse aplicativo foi o Swift, ferramenta essa que é implementada juntamente ao Xcode.</h3>
+
 
 
 
