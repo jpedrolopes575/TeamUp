@@ -41,10 +41,7 @@
 
 # 🗨 :: Linguagem utilizada
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,&perline=14" />
-    >Swift<
-  </a>
+   Apps with ![Swift](https://img.shields.io/badge/-Swift-2E333D?style=flat&logo=swift)
   <a>Swift</a>
 </p>
 
