@@ -58,7 +58,7 @@
 
 ![image](https://github.com/user-attachments/assets/8d6cfe06-f14f-4284-9a33-d102419865f2)
 
-<h3>Criar Novo Time</h3>
+<h3>Escalação do Time</h3>
 
 ![image](https://github.com/user-attachments/assets/887f6cd7-20d7-4c88-be73-5ab284f1c839)
 
