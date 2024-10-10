@@ -52,27 +52,27 @@
 
 # 📷 :: Imagens do Projeto
 <div align="center">
-<h3>Início</h3>
+<h2>Início</h2>
   
 ![image](https://github.com/user-attachments/assets/5d678aa5-63c8-4059-a669-095e02ab44b3)
 
-<h3>Criar Novo Time</h3>
+<h2>Criar Novo Time</h2>
 
 ![image](https://github.com/user-attachments/assets/ed107208-2422-43a4-b03e-35287103b80e)
 
-<h3>Definir Horário de Treino</h3>
+<h2>Definir Horário de Treino</h2>
 
 ![image](https://github.com/user-attachments/assets/8d6cfe06-f14f-4284-9a33-d102419865f2)
 
-<h3>Escalação do Time</h3>
+<h2>Escalação do Time</h2>
 
 ![image](https://github.com/user-attachments/assets/887f6cd7-20d7-4c88-be73-5ab284f1c839)
 
-<h3>Tela Jogador</h3>
+<h2>Tela Jogador</h2>
 
 ![image](https://github.com/user-attachments/assets/a7f4c79a-6b02-4738-b57a-8312276fe93b)
 
-<h3>Modo Partida</h3>
+<h2>Modo Partida</h2>
 
 ![image](https://github.com/user-attachments/assets/28cd8047-6ae2-411a-9748-e0590ea53fcf)
 
